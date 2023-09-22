@@ -188,8 +188,7 @@ class Habitapp:
 		Returns:
 			Message that habit was completed and the completion time. Updates completion times and counts in database. 
 		"""
-		
-		#disabling this to see if it works better - Activated again
+		# shows all habits and their current completions for the day
 		self.display_habits()
 		
 		while True:
