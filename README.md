@@ -5,8 +5,15 @@ The main goal of this project is a to provide a simple to use Habit Tracking App
 It is light-weight and fast. All files get stored locally on your device making it in essence private.
 
 ## What tools does it use?
-The application uses Python and SQlite3 for managing the database. 
-The interface is a CLI (command-line interface)
+The application uses:
+- Python (build on Python 3.11) 
+- SQlite3 for managing the database. 
+
+### How can the user interact with the program? 
+The interface is a CLI (command-line interface) that is a simple Menu, where the user inputs a number on their keyboard to access that menu item. (1,2,3 etc)
+
+## How to run the application?
+``` main.py``` 
 
 
 
