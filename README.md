@@ -1,6 +1,13 @@
 # oofpp_habits_project
 
-Add text here
+# Privacy-First Habit Tracking App
+The main goal of this project is a to provide a simple to use Habit Tracking App. 
+It is light-weight and fast. All files get stored locally on your device making it in essence private.
+
+## What tools does it use?
+The application uses Python and SQlite3 for managing the database. 
+The interface is a CLI (command-line interface)
+
 
 
 MIT License
