@@ -13,6 +13,19 @@ The application uses:
 ### How can the user interact with the program? 
 The interface is a CLI (command-line interface) that is a simple Menu, where the user inputs a number on their keyboard to access that menu item. (1,2,3 etc)
 
+## What does the application do?
+The application can:
+
+* create habits
+* complete habits (like tick-off)
+* provide analytics for habits
+* show list of habits
+* list habits by periodicity
+* display the longest streak of a habit
+* delete habits
+* built in help-menu
+* exit app
+* edit a habit and change it name or periodicity and frequency
 
 
 ## How to run the application?
