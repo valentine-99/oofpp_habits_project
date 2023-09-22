@@ -12,16 +12,37 @@ The application uses:
 ### How can the user interact with the program? 
 The interface is a CLI (command-line interface) that is a simple Menu, where the user inputs a number on their keyboard to access that menu item. (1,2,3 etc)
 
+
+
 ## How to run the application?
 ~~~
 main.py
 ~~~
 
+## How to demo the application with 4 weeks of habit data? 
+run:
+~~~
+demo.py
+~~~
+and then run
+~~~
+main.py
+~~~
 
+to remove the demo data, run:
+~~~
+demo.py 
+~~~
+and select menu option 2 (this will delete all information saved in the habit tracker app)
+
+
+
+
+## License
 MIT License
-
+~~~
 Copyright (c) [2023] [valentine-99]
-
+~~~
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
