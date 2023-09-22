@@ -1,6 +1,7 @@
 # Privacy-First Habit Tracking App
 The main goal of this project is a to provide a simple to use Habit Tracking App. 
 It is light-weight and fast. All files get stored locally on your device making it in essence private.
+The app has some built in tools to you help you keep track of streaks and records. 
 
 #### Note - The database files are not encrypted, so its possible for these files to be read by any program that can read .db files, but if you have a non-internet connected device this application could run and track all your habits indefintely. 
 
