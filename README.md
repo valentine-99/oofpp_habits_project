@@ -47,7 +47,7 @@ to remove the demo data, run (and select menu option 2):
 ~~~
 demo.py 
 ~~~
-and select menu option 2 (this will delete all information saved in the habit tracker app)
+(this will delete all information saved in the habit tracker app)
 
 
 
