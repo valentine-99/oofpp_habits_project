@@ -13,7 +13,7 @@ The application uses:
 The interface is a CLI (command-line interface) that is a simple Menu, where the user inputs a number on their keyboard to access that menu item. (1,2,3 etc)
 
 ## How to run the application?
-``` main.py``` 
+~~~ main.py ~~~
 
 
 
