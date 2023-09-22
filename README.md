@@ -20,7 +20,7 @@ main.py
 ~~~
 
 ## How to demo the application with 4 weeks of habit data? 
-run:
+run (and select menu option 1):
 ~~~
 demo.py
 ~~~
@@ -29,7 +29,7 @@ and then run
 main.py
 ~~~
 
-to remove the demo data, run:
+to remove the demo data, run (and select menu option 2):
 ~~~
 demo.py 
 ~~~
