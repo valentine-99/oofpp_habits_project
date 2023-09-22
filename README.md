@@ -1,5 +1,3 @@
-# oofpp_habits_project
-
 # Privacy-First Habit Tracking App
 The main goal of this project is a to provide a simple to use Habit Tracking App. 
 It is light-weight and fast. All files get stored locally on your device making it in essence private.
@@ -60,3 +58,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+# This was built as part of a project - oofpp_habits_project
